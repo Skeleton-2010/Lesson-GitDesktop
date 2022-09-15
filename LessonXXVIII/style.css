@@ -1,0 +1,25 @@
+body {
+  background-color: #ffccaa;
+}
+.Name {
+  font-size: 64px;
+  color: #aaccff;
+  border: 4px dotted #aaffcc;
+  text-align: center;
+}
+.Button {
+  padding: 32px;
+  font-size: 16px;
+  background-color: #aaffcc;
+  margin-top: 128px;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 32px;
+  transition: 0.2s;
+}
+.Button:hover {
+  padding: 40px;
+  font-size: 24px;
+  background-color: #aaccff;
+  border-radius: 24px;
+}
